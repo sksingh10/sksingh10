@@ -24,7 +24,7 @@
 
 
 # :person_in_tuxedo: Who am I:question::question:
-- I am a Data Science enthusiast currently moving into the testing phase of my model called Life as a Data Scientist.
+- I am a Data Science enthusiast currently moving into the testing phase of my model called "Life as a Data Scientist".
 - I am also a passionate soccer player + fan :soccer:, who also loves streaming netflix, animes :tv:, and reading books :books:.
 - Best in Languages and Tools :  `Python`, `SQL`, `PySpark`, `Java`, `JavaScript`, , `MS Office`,`VS Code`, `GitHub`, `Anaconda`.
 
